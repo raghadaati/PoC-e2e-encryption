@@ -51,10 +51,6 @@ This program demonstrates a basic peer-to-peer (P2P) encrypted messaging system 
 
 ### Install the cryptography library:
 
-```bash
+bash
 pip install cryptography
-```
 
-```
-
-```
